@@ -1,6 +1,6 @@
 # opencode-bwrap
 
-**Forked project from [https://github.com/didvc/opencode-bwrap}(https://github.com/didvc/opencode-bwrap)**.
+**Forked project from [https://github.com/didvc/opencode-bwrap](https://github.com/didvc/opencode-bwrap)**.
 
 Run [opencode](https://github.com/anomalyco/opencode) inside a [bubblewrap](https://github.com/containers/bubblewrap) sandbox — keeping AI-driven file operations confined to your current working directory.
 
